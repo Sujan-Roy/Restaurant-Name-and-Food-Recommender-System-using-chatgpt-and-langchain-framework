@@ -10,5 +10,5 @@ Welcome to the Restaurant Name and Food Recommender System, a groundbreaking app
 **How to Get Started:**
 
 1. Clone this repository to your local machine.
-2. Review the setup and installation instructions according to the requirements.txt file.
+2. Review the setup and installation instructions according to the **requirements.txt** file.
 3. Start generating restaurant names, receiving food recommendations, and interacting with our AI chatbot.
