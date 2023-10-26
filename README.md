@@ -14,4 +14,4 @@ Welcome to the Restaurant Name and Food Recommender System, a groundbreaking app
 3. Start generating restaurant names, receiving food recommendations, and interacting with our AI chatbot.
 
 
-** My system is designed to serve a global audience and is not limited to a specific country. It's ready to provide restaurant and food recommendations for users worldwide.**
+**My system is designed to serve a global audience and is not limited to a specific country. It's ready to provide restaurant and food recommendations for users worldwide.**
